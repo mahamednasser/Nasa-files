@@ -1,2 +1,1 @@
-# Nasa-files
-Security Dragons File
+These are the project files that we created, which are the Python file for encryption, encryption keys, files for the server certificates, files for openssl, and the client key file. We did not have the ability to use the seim solution and EDR because the cost would be high.
